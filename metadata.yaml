@@ -1,11 +1,16 @@
 _repo: Von-den-Garten-der-Erde-Ein-Buch-der-tiefen-Stille_64355
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64355-h/images/cover.jpg
 creator:
   author:
     agent_name: Dauthendey, Elisabeth
     gutenberg_agent_id: '52861'
     url: http://www.gutenberg.org/2009/agents/52861
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64355#Von-den-Garten-der-Erde-Ein-Buch-der-tiefen-Stille
 gutenberg_issued: '2021-01-21'
 gutenberg_type: Text
 identifiers:
